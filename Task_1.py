@@ -1,4 +1,4 @@
-#Simple Calculator
+# To create a simple calculator
 def calculate():
   """
   This function performs basic arithmetic operations based on user input.
