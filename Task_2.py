@@ -1,4 +1,4 @@
-# Task 2 - To generate random password.
+# Task 2 - To generate random password
 
 import random
 import string
