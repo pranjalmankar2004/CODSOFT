@@ -1,3 +1,4 @@
+# To design Rock-Paper-Scissor game
 import random
 
 def get_user_choice():
